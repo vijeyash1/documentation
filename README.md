@@ -32,3 +32,9 @@
  - **Client credentials**: A grant type in which the client obtains an access token by presenting its own credentials (client ID and secret) to the authorization server.
 
 
+
+**Technologies Used**
+
+ - **Kratos** : Kratos is a Authentication tool build by the Ory. we can leverage it for implementing authentication.
+ - **Hydra** : _Ory Hydra_ is the most advanced OAuth 2.0 and OIDC Certified® Server. we can leverage it for becoming a  OAuth 2.0 and OIDC provider.
+ - 
