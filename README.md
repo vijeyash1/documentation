@@ -1,4 +1,5 @@
 **Documentation for becoming a OIDC / 0Auth2.0 provider**
+
 ***Before Going further lets look into some of the important Terminologies***
 
 
@@ -25,3 +26,5 @@
  - **Implicit**: A grant type in which the authorization server issues an access token directly to the client. This grant type is commonly used in client-side web applications and mobile apps.
  - **Resource owner password credentials**: A grant type in which the client obtains an access token by presenting the resource owner's username and password to the authorization server.
  - **Client credentials**: A grant type in which the client obtains an access token by presenting its own credentials (client ID and secret) to the authorization server.
+
+
