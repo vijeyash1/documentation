@@ -14,6 +14,10 @@
 
 >   Authorization is  **the process of giving someone permission to have access to something**.
 
+
+**Some Terminologies around 0auth**
+
+
  - **Authorization server**: The server that issues access tokens to clients after successfully authenticating the resource owner and obtaining authorization.
  - **Resource owner**: The entity that can grant access to a protected resource. This is typically the end-user.
  - **Client**: An application that requests access to a protected resource on behalf of the resource owner.
