@@ -18,9 +18,10 @@
 ## How to create a oauth client using cli?
 
     ory create oauth2-client \  
-    --project ORY_NETWORK_PROJECT_SLUG_OR_ID \  
-    --name YOUR_CLIENT_NAME \  
+    --project e682d62c-b226-0371bae9 \  
+    --name nodeapp \  
     --grant-type authorization_code,refresh_token \  
     --response-type code,id_token \  
     --scope openid,offline \  
     --redirect-uri http://127.0.0.1:5555/callback
+
